@@ -42,7 +42,7 @@ basic business insights through visualizations.
 ---
 
 ## Project Structure
-
+```
 cafe-sales-analysis/
 ├── data/
 │ ├── dirty_cafe_sales.csv
@@ -54,3 +54,4 @@ cafe-sales-analysis/
 │ └── clean_and_plot.py
 ├── README.md
 └── requirements.txt
+```
