@@ -1,0 +1,31 @@
+Cafe Sales Data Cleaning and Analysis
+
+This project performs end-to-end data cleaning and basic analysis on a real-world
+messy cafe sales dataset using Python.
+
+The focus of the project is on building a correct and honest data cleaning pipeline
+rather than blindly filling or guessing values.
+
+Main steps included:
+- Normalizing fake missing values (NA, UNKNOWN, ERROR, etc.)
+- Fixing incorrect data types (numeric and datetime)
+- Handling missing values using logical strategies
+- Validating business logic (price per unit × quantity = total spent)
+- Standardizing column names and categorical values
+- Removing unusable rows while preserving valid data
+
+Basic exploratory analysis and visualizations were created:
+- Bar chart showing top 10 items by total revenue
+- Pie chart showing revenue share of top 5 items
+
+Tools used:
+- Python
+- Pandas
+- Matplotlib
+
+Final outputs:
+- Cleaned dataset saved as cleaned_cafe_sales.csv
+- Revenue visualizations generated from cleaned data
+
+This project demonstrates a practical data cleaning workflow suitable for
+analytics, dashboards, and further data-driven applications.
