@@ -39,6 +39,7 @@ basic business insights through visualizations.
 - Pandas
 - Matplotlib
 - Will be using flask or fastAPI
+- Learning FLASK
 
 ---
 
