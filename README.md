@@ -15,7 +15,7 @@ basic business insights through visualizations.
 - Handled missing values using logical strategies
 - Validated business logic (price × quantity = total spent)
 - Standardized column names and categories
-- Will try to add a predictive analytic model
+- Will be doing more EDA which days result in more sales
 
 ---
 
