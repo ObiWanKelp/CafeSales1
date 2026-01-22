@@ -41,7 +41,7 @@ basic business insights through visualizations.
 - Matplotlib
 - Will be using flask or fastAPI
 - Learning FLASK
-
+- Next week se pakka updates
 ---
 
 ## Project Structure
