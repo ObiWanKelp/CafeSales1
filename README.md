@@ -1,4 +1,4 @@
-# Cafe Sales Data Cleaning & Analysissss
+# Cafe Sales Data Cleaning & Analysis
 
 ## Overview
 
